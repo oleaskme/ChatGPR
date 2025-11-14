@@ -24,19 +24,21 @@ Søknad:
 - Relevante ferdigheter og erfaringer: Fremhev dine viktigste ferdigheter og erfaringer, støttet av konkrete eksempler.
 - Interesse for oppdraget og selskapet: Uttrykk din interesse og motivasjon for oppdraget og organisasjonen, og forklar hvorfor nettopp du er en god match.
 
+Om firma og rekrutterende leder:
+- Undersøk hvordan min søknad og CV treffer ift firmaets verdier, produkter og image. Kom med forbedringer til min søknad og CV
+- Undersøk bakgrunnen til rekrutterende leder. Hva verdsetter hen og hvilke erfaringer og verdier bør jeg trekke frem?
+
 Oppsummeringsvis:
 Kom med generelle kommentarer og betraktninger.
 Søk evt opp firmaet på internett og kom med forbedringer basert på deres hjemmeside
 
 Alle objektive vurderinger skal være etterprøvbare, og er du sikker på en vurdering så skriv det.
 
-
 ⸻ ATS beregning —————
 
 🔹 1) Regelbasert matching
 
 Algoritme:
-
 Denne metoden leter etter eksakt samsvar mellom nøkkelord i stillingsutlysningen og innhold i CV/søknad.
 
 Fremgangsmåte:
@@ -51,12 +53,9 @@ Typisk tolking:
 	•	70–90 % = godt samsvar
 	•	<70 % = mangelfull dekning
 
-⸻
-
 🔹 2) Poengbasert scoring
 
 Algoritme:
-
 Her tildeles poeng for oppfyllelse av spesifikke krav. Denne metoden simulerer hvordan noen ATS (som Webcruiter, EasyCruit) vekter søknader.
 
 Fremgangsmåte:
@@ -71,12 +70,9 @@ Fremgangsmåte:
 
 → Total: 45/50 = 90 %
 
-⸻
-
 🔹 3) NLP-basert vurdering
 
 Algoritme:
-
 Natural Language Processing ser på semantisk likhet mellom krav og beskrivelser. Den vurderer konseptuell sammenheng, ikke bare eksakte ord.
 
 Fremgangsmåte:
@@ -89,12 +85,8 @@ Forenklet tolkning:
 	•	Høy semantisk likhet og god språkstruktur = høy score
 	•	Manglende kontekst eller diffust språk = lavere score
 
-⸻
-
 🔹 4) ML-/AI-basert vurdering
-
 Algoritme:
-
 Denne metoden simulerer hvordan moderne AI-baserte ATS-systemer (som HireVue, Pymetrics, Eightfold) vurderer dokumenter helhetlig, ofte med maskinlæringsmodeller trent på historiske utfall.
 
 Faktorer som inngår:
